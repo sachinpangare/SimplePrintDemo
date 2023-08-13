@@ -1,0 +1,15 @@
+com/simpleprintdemo/util/DemoSleeper.java
+ com.simpleprintdemo.util.DemoSleeper
+com/simpleprintdemo/activity/MainActivity.java
+ com.simpleprintdemo.activity.MainActivity
+ com.simpleprintdemo.activity.MainActivity$1
+ com.simpleprintdemo.activity.MainActivity$2
+ com.simpleprintdemo.activity.MainActivity$3
+ com.simpleprintdemo.activity.MainActivity$4
+ com.simpleprintdemo.activity.MainActivity$5
+com/simpleprintdemo/util/SettingsHelper.java
+ com.simpleprintdemo.util.SettingsHelper
+com/simpleprintdemo/broadcast/DeviceReceiver.java
+ com.simpleprintdemo.broadcast.DeviceReceiver
+com/simpleprintdemo/BuildConfig.java
+ com.simpleprintdemo.BuildConfig

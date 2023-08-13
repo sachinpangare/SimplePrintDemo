@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\b098dde000b81f81d847fce16ad3bc04\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\sachi\.gradle\caches\transforms-3\3c94f69bc99841748bc4d8942d4a29c9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\51fdfd5064a9bff3935c3c69a37ca2b3\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\sachi\.gradle\caches\transforms-3\a623e665661254d1159b22b5e807446d\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-beta01] C:\Users\sachi\.gradle\caches\transforms-3\f877b05db26892f101be9ca68184f2a9\transformed\recyclerview-1.2.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\8e7fd72d87e20ae04ebd28a5f9e79b11\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\22a51f44cdda660ee1b80324ead41660\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\6a3129cfd504ed00e640aaa6583f3eea\transformed\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\5a89849bfd38ecbffaf5b00436d2e3bd\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\sachi\.gradle\caches\transforms-3\d5bd5b4f97bcacfb287916c1002bb25d\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\sachi\.gradle\caches\transforms-3\d9ea8700c42f3ecca02e65a26149f1f5\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\d8d0525367ecdab955fbae00bb6da1c9\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\9e5bac1f89003abf622e3422923228db\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\780765cea0c567bec6ca8db99cd43cba\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\244493283b924bdab6270ba5f46952f0\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\058d6c0c5747b5b4ce36017fadd3626c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\c737135e2039c6aa4422151570c825bf\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\7f12bd1a771dd87c830f5d5a90fbdbe2\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\4666547609bee097a70e3acc6d3c3166\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\cc799678192709bceae81fa20a37187c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sachi\.gradle\caches\transforms-3\f0fe3706260b3bce929f3dd639e33b7e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sachi\.gradle\caches\transforms-3\de5a7dc1c81a89f7e31dc782229122df\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\sachi\.gradle\caches\transforms-3\255d63c0f9f8f5d12ab3191ffb377750\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\6b80c278120ff42ff6ece3f9d926c639\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\sachi\.gradle\caches\transforms-3\c2a2b216c41ef64c23b5a2261da3c566\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\sachi\.gradle\caches\transforms-3\467a835b52a179222c9cd595c4b15361\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\sachi\.gradle\caches\transforms-3\f25280aa28dd02b1b0fe5958898387a3\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\sachi\.gradle\caches\transforms-3\9f2676b1c0969ec8c1ba6828bf396548\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sachi\.gradle\caches\transforms-3\4f632648e53e556eed5f40f2824d9ac5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\140757696eca7ec1efbdf7371a4acde0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\989dfec6fc7a4daefb140f0c011fcef1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\8ca7186ef83368b8549809152ed428ce\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\485578c608519582fc751ff2f7c88476\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\80c89437fc250e842b2f71e0d613c9ff\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sachi\.gradle\caches\transforms-3\bc210aa728a4eeea33d4ed954c0cfcd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\sachi\.gradle\caches\transforms-3\b4df7864670f88d5668dedcb24fe690f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sachi\.gradle\caches\transforms-3\a1b15eaaf08fb20dd8d722ca164b4b9c\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\18e5cb54f886f7aa7e26ad4e22b3ac23\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:2:11-69
+permission#com.zebra.simpleprintdemo.USB_PERMISSION
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:5:17-72
+uses-feature#android.hardware.usb.accessory
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:6:19-64
+uses-feature#android.hardware.usb.host
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:7:5-62
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:7:19-59
+uses-permission#android.permission.INTERNET
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:10:5-95
+	android:maxSdkVersion
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:10:66-92
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:11:5-102
+	android:maxSdkVersion
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:11:73-99
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:14:5-120
+	android:usesPermissionFlags
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:14:71-117
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:14:22-70
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:14:120-200
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:14:137-197
+application
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:18:5-41:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\b098dde000b81f81d847fce16ad3bc04\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\b098dde000b81f81d847fce16ad3bc04\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\sachi\.gradle\caches\transforms-3\3c94f69bc99841748bc4d8942d4a29c9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\sachi\.gradle\caches\transforms-3\3c94f69bc99841748bc4d8942d4a29c9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\sachi\.gradle\caches\transforms-3\255d63c0f9f8f5d12ab3191ffb377750\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\sachi\.gradle\caches\transforms-3\255d63c0f9f8f5d12ab3191ffb377750\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sachi\.gradle\caches\transforms-3\4f632648e53e556eed5f40f2824d9ac5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sachi\.gradle\caches\transforms-3\4f632648e53e556eed5f40f2824d9ac5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\sachi\.gradle\caches\transforms-3\255d63c0f9f8f5d12ab3191ffb377750\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:20:9-45
+	android:allowBackup
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.simpleprintdemo.activity.MainActivity
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:24:9-39:20
+	android:screenOrientation
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:26:13-45
+	android:exported
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:25:13-69
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED+action:name:android.hardware.usb.action.USB_DEVICE_DETACHED+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:29:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:31:27-74
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:32:17-90
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:32:25-87
+action#android.hardware.usb.action.USB_DEVICE_DETACHED
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:33:17-90
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:33:25-87
+meta-data#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:36:13-38:57
+	android:resource
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:38:17-54
+	android:name
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml:37:17-82
+uses-sdk
+INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\b098dde000b81f81d847fce16ad3bc04\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\b098dde000b81f81d847fce16ad3bc04\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\sachi\.gradle\caches\transforms-3\3c94f69bc99841748bc4d8942d4a29c9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\sachi\.gradle\caches\transforms-3\3c94f69bc99841748bc4d8942d4a29c9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\51fdfd5064a9bff3935c3c69a37ca2b3\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\51fdfd5064a9bff3935c3c69a37ca2b3\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\sachi\.gradle\caches\transforms-3\a623e665661254d1159b22b5e807446d\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\sachi\.gradle\caches\transforms-3\a623e665661254d1159b22b5e807446d\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-beta01] C:\Users\sachi\.gradle\caches\transforms-3\f877b05db26892f101be9ca68184f2a9\transformed\recyclerview-1.2.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-beta01] C:\Users\sachi\.gradle\caches\transforms-3\f877b05db26892f101be9ca68184f2a9\transformed\recyclerview-1.2.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\8e7fd72d87e20ae04ebd28a5f9e79b11\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\8e7fd72d87e20ae04ebd28a5f9e79b11\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\22a51f44cdda660ee1b80324ead41660\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\22a51f44cdda660ee1b80324ead41660\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\6a3129cfd504ed00e640aaa6583f3eea\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\6a3129cfd504ed00e640aaa6583f3eea\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\5a89849bfd38ecbffaf5b00436d2e3bd\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\5a89849bfd38ecbffaf5b00436d2e3bd\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\sachi\.gradle\caches\transforms-3\d5bd5b4f97bcacfb287916c1002bb25d\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\sachi\.gradle\caches\transforms-3\d5bd5b4f97bcacfb287916c1002bb25d\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\sachi\.gradle\caches\transforms-3\d9ea8700c42f3ecca02e65a26149f1f5\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\sachi\.gradle\caches\transforms-3\d9ea8700c42f3ecca02e65a26149f1f5\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\d8d0525367ecdab955fbae00bb6da1c9\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\sachi\.gradle\caches\transforms-3\d8d0525367ecdab955fbae00bb6da1c9\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\9e5bac1f89003abf622e3422923228db\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\9e5bac1f89003abf622e3422923228db\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\780765cea0c567bec6ca8db99cd43cba\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\780765cea0c567bec6ca8db99cd43cba\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\244493283b924bdab6270ba5f46952f0\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\244493283b924bdab6270ba5f46952f0\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\058d6c0c5747b5b4ce36017fadd3626c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\058d6c0c5747b5b4ce36017fadd3626c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\c737135e2039c6aa4422151570c825bf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\c737135e2039c6aa4422151570c825bf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\7f12bd1a771dd87c830f5d5a90fbdbe2\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\7f12bd1a771dd87c830f5d5a90fbdbe2\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\4666547609bee097a70e3acc6d3c3166\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\4666547609bee097a70e3acc6d3c3166\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\cc799678192709bceae81fa20a37187c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\cc799678192709bceae81fa20a37187c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sachi\.gradle\caches\transforms-3\f0fe3706260b3bce929f3dd639e33b7e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sachi\.gradle\caches\transforms-3\f0fe3706260b3bce929f3dd639e33b7e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sachi\.gradle\caches\transforms-3\de5a7dc1c81a89f7e31dc782229122df\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sachi\.gradle\caches\transforms-3\de5a7dc1c81a89f7e31dc782229122df\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\sachi\.gradle\caches\transforms-3\255d63c0f9f8f5d12ab3191ffb377750\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\sachi\.gradle\caches\transforms-3\255d63c0f9f8f5d12ab3191ffb377750\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\6b80c278120ff42ff6ece3f9d926c639\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\6b80c278120ff42ff6ece3f9d926c639\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\sachi\.gradle\caches\transforms-3\c2a2b216c41ef64c23b5a2261da3c566\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\sachi\.gradle\caches\transforms-3\c2a2b216c41ef64c23b5a2261da3c566\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\sachi\.gradle\caches\transforms-3\467a835b52a179222c9cd595c4b15361\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\sachi\.gradle\caches\transforms-3\467a835b52a179222c9cd595c4b15361\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\sachi\.gradle\caches\transforms-3\f25280aa28dd02b1b0fe5958898387a3\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\sachi\.gradle\caches\transforms-3\f25280aa28dd02b1b0fe5958898387a3\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\sachi\.gradle\caches\transforms-3\9f2676b1c0969ec8c1ba6828bf396548\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\sachi\.gradle\caches\transforms-3\9f2676b1c0969ec8c1ba6828bf396548\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sachi\.gradle\caches\transforms-3\4f632648e53e556eed5f40f2824d9ac5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sachi\.gradle\caches\transforms-3\4f632648e53e556eed5f40f2824d9ac5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\140757696eca7ec1efbdf7371a4acde0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\140757696eca7ec1efbdf7371a4acde0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\989dfec6fc7a4daefb140f0c011fcef1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\989dfec6fc7a4daefb140f0c011fcef1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\8ca7186ef83368b8549809152ed428ce\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\8ca7186ef83368b8549809152ed428ce\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\485578c608519582fc751ff2f7c88476\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\485578c608519582fc751ff2f7c88476\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\80c89437fc250e842b2f71e0d613c9ff\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\80c89437fc250e842b2f71e0d613c9ff\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sachi\.gradle\caches\transforms-3\bc210aa728a4eeea33d4ed954c0cfcd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sachi\.gradle\caches\transforms-3\bc210aa728a4eeea33d4ed954c0cfcd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\sachi\.gradle\caches\transforms-3\b4df7864670f88d5668dedcb24fe690f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\sachi\.gradle\caches\transforms-3\b4df7864670f88d5668dedcb24fe690f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sachi\.gradle\caches\transforms-3\a1b15eaaf08fb20dd8d722ca164b4b9c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sachi\.gradle\caches\transforms-3\a1b15eaaf08fb20dd8d722ca164b4b9c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\18e5cb54f886f7aa7e26ad4e22b3ac23\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sachi\.gradle\caches\transforms-3\18e5cb54f886f7aa7e26ad4e22b3ac23\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Appstek Backup\Other\Print\SimplePrintDemo\app\src\main\AndroidManifest.xml

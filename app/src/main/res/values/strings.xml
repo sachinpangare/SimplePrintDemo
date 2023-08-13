@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Print Demo</string>
+    <string name="no_printers_found">No printers found</string>
+    <string name="usb">USB</string>
+    <string name="port">Port:</string>
+    <string name="mac_address">MAC Address:</string>
+    <string name="none_ble_device">No Bluetooth found</string>
+    <string name="action_settings">Setting</string>
+    <string name="print_demo_for_bluetooth_and_usb">Print Demo For BlueTooth and USB</string>
+    <string name="status_not_connected">Status: Not Connected</string>
+    <string name="test">Test</string>
+</resources>

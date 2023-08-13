@@ -1,0 +1,19 @@
+#Sun Aug 13 00:34:38 IST 2023
+path.4=15/classes.dex
+path.3=13/classes.dex
+path.2=10/classes.dex
+path.1=0/classes.dex
+path.5=8/classes.dex
+path.0=classes.dex
+base.4=D\:\\Appstek Backup\\Other\\Print\\SimplePrintDemo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.3=D\:\\Appstek Backup\\Other\\Print\\SimplePrintDemo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.2=D\:\\Appstek Backup\\Other\\Print\\SimplePrintDemo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.1=D\:\\Appstek Backup\\Other\\Print\\SimplePrintDemo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=D\:\\Appstek Backup\\Other\\Print\\SimplePrintDemo\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+base.5=D\:\\Appstek Backup\\Other\\Print\\SimplePrintDemo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
