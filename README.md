@@ -23,9 +23,5 @@ How to Print
 ***Printer Image***
 ![15996238234052](https://github.com/sachinpangare/SimplePrintDemo/assets/10301367/f87cfc34-849b-4670-91bf-a7bcb63da818)
 
-***Output***
-
-![IMG_20230813_145214](https://github.com/sachinpangare/SimplePrintDemo/assets/10301367/dfad1806-b4ce-46a5-a881-a9999c3589e3)
-
 
 Android portable Bluetooth & USB thermal Label printer app
